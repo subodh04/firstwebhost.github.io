@@ -1,0 +1,98 @@
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+.body{
+  color: white;
+  font-family : Lobster;
+  font-size: 6.0em;
+  padding-top: 200px;
+}
+.subbody{
+   color: white;
+  font-family : Lobster;
+  font-size: 2.0em;
+}
+.body2
+{
+  color: black;
+  font-family : Lobster;
+  font-size: 6.0em;
+}
+.font{
+  font-family: Lucida console, monospace;
+}
+.pageone
+{
+  background:url("http://unsplash.com/photos/gbHMZCFraAI/download?force=true");
+  background-size: cover;
+  height: 800px;
+  opacity: .9;
+}
+.pagetwo
+{
+  background:url("http://unsplash.com/photos/wn-KYaHwcis/download?force=true");
+  background-size : cover;
+  height: 1000px;
+    opacity: .9;
+}
+.p
+{
+  font-size: 2.5em;
+  color: black;
+  font-family: Courier New; Monospace;
+}
+.pagethree
+{
+  background:url("http://unsplash.com/photos/pUAM5hPaCRI/download?force=true");
+  background-size:cover;
+  padding-side: -10px;
+  height: 800px;
+  opacity: .9;
+}
+.p1
+{
+   color: Grey;
+  font-family : Lobster;
+  font-size: 6.0em;
+  padding-top: 50px;
+}
+.pp1
+{
+  color: black;
+  font-family : Courier New; Monospace;
+  font-size: 2.0em;
+}
+.pp3
+{color : black;
+  font-family : lobster;
+  font-size: 6.0em;
+  padding-top: 100px;
+}
+.pagefour
+{
+  background: url("http://unsplash.com/photos/31jdvVlq9so/download?force=true");
+  background-size:cover;
+  height: 1000px;
+  opacity: .9;
+  
+}
+.pp4
+{
+  color: white;
+  font-family: lobster;
+  font-size: 2em;
+}
+.pp5
+{
+  color: white;
+  font-family : Courier New; Monospace;
+  font-size: 2.0em;
+}
+.footer
+{
+  background-color: black;
+  color: white;
+    font-family: lobster;
+  font-size: 3.0em;
+}
